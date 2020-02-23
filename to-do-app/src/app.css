@@ -1,0 +1,60 @@
+ul{
+    padding-left: 0;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+    background-color: greenyellow;
+    margin-top: 1em;
+    padding: 0.4em;
+    width: 30em;
+    font-size: 1em;
+}
+label{
+    font-family: AnjaliOldLipi;
+    font-size: 1.5em;
+    color: gainsboro;
+}
+#app{
+    padding: 2em;
+    margin-top: 10em;
+    margin-left: 40em;
+    background-color: cornflowerblue;
+    width: 30em;
+}
+button {
+    background-color: coral;
+    padding-left:2em;
+    padding-right: 2em;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+    margin-left: 2em;
+    font-size: 1.2em;
+    border: 0;
+    border-radius: 0.5em;
+}
+h1{
+    color: yellow;
+    font-size: 2em;
+    margin-left: 1.5em;
+    font-family: "Abyssinica SIL";
+}
+input{
+    font-size: 1.3em;
+    width: 13em;
+}
+#removeButton{
+    background-color: orangered;
+    padding-left:1em;
+    padding-right: 1em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    font-size: 1.2em;
+    border: 0;
+    margin-left: 18em;
+}
+h2{
+    font-size: 1.5em;
+    color: mediumvioletred;
+    font-family: "DejaVu Math TeX Gyre";
+}
