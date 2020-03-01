@@ -1,0 +1,43 @@
+body{
+    background:url("../images/Classic-45-degree-seamless-pattern-for-website-background.jpg");
+    background:url("../images/Classic-45-degree-seamless-pattern-for-website-background.jpg");
+}
+.headerImage{
+    height: 600px;
+    width: 100vw;
+    background: black;
+    overflow: hidden;
+    background: black;
+    background: -webkit-linear-gradient(to right,rgba(0,0,0,1),rgba(0,0,0,0.4)),url("../images/camera-iphone-macbook-pro-office-62689.jpg");
+    background: linear-gradient(to right,rgba(0,0,0,1),rgba(0,0,0,0.4)),url("../images/camera-iphone-macbook-pro-office-62689.jpg");
+    background-size: cover;
+}
+img{
+    object-fit: cover;
+}
+#ImageText{
+    color: whitesmoke;
+    margin-top: 20em;
+    margin-left: 8em;
+}
+h1{
+    font-size: 3em;
+    margin-left: 1.7em;
+    font-family: KacstDecorative;
+}
+button{
+    font-size: 1.4em;
+    background-color: papayawhip;
+    border: none;
+    padding: 0.8em;
+    border-radius: 0.4em;
+    margin-left: 7em;
+}
+a{
+    text-decoration: none;
+    color: mediumvioletred;
+}
+a:hover{
+    text-decoration: none;
+    color: cornflowerblue;
+}
