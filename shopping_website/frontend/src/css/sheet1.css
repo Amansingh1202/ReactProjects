@@ -1,6 +1,5 @@
 body{
     background:url("../images/Classic-45-degree-seamless-pattern-for-website-background.jpg");
-    background:url("../images/Classic-45-degree-seamless-pattern-for-website-background.jpg");
 }
 .headerImage{
     height: 600px;
@@ -8,8 +7,8 @@ body{
     background: black;
     overflow: hidden;
     background: black;
-    background: -webkit-linear-gradient(to right,rgba(0,0,0,1),rgba(0,0,0,0.4)),url("../images/camera-iphone-macbook-pro-office-62689.jpg");
-    background: linear-gradient(to right,rgba(0,0,0,1),rgba(0,0,0,0.4)),url("../images/camera-iphone-macbook-pro-office-62689.jpg");
+    background: -webkit-linear-gradient(to right,rgba(0,0,51,1),rgba(102,255,255,0.4)),url("../images/camera-iphone-macbook-pro-office-62689.jpg");
+    background: linear-gradient(to right,rgba(0,0,51,1),rgba(102,255,255,0.4)),url("../images/camera-iphone-macbook-pro-office-62689.jpg");
     background-size: cover;
 }
 img{
@@ -24,14 +23,21 @@ h1{
     font-size: 3em;
     margin-left: 1.7em;
     font-family: KacstDecorative;
+    color: #FF4500;
 }
 button{
     font-size: 1.4em;
-    background-color: papayawhip;
+    background-color: #FF7F50;
     border: none;
     padding: 0.8em;
     border-radius: 0.4em;
     margin-left: 7em;
+}
+ul{
+    list-style-type: none;
+}
+h3{
+    color: #FFA500;
 }
 a{
     text-decoration: none;
@@ -40,4 +46,19 @@ a{
 a:hover{
     text-decoration: none;
     color: cornflowerblue;
+}
+.navbar{
+    background-color: #000033;
+}
+li{
+    color: #FF4500;
+    display: inline;
+    margin-left: 20em;
+}
+.navbar-nav{
+    margin-top: 2em;
+    margin-left: 10em;
+}
+h2{
+    color: #FDA50F;
 }

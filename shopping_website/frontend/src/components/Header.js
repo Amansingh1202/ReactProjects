@@ -1,6 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from "react";
 import '../css/sheet1.css';
+import { Link } from 'react-router-dom';
 const NavBar = () => {
     return (
         <div>
@@ -12,14 +13,22 @@ const NavBar = () => {
                             <span className='icon-bar'></span>
                             <span className='icon-bar'></span>
                         </button>
-                        <a className='navbar-brand' href='#' >Hello</a>
+                        <h2>Shopping Website</h2>
                     </div>
                     <div className='collapse navbar-collapse' id='MyNavbar'>
                         <ul className='nav navbar-nav'>
-                            <li className='active'><a href='index.html'>Home</a></li>
-                            <li><a href='#'><span className='glyphicon glyphicon-user'></span>Join US</a></li>
-                            <li><a href='#'><span className='glyphicon glyphicon-log-in'></span>Sign In</a></li>
-                            <li><a href='#'>Contact Me</a></li>
+                            <Link to="/">
+                                <li className='active'>Home</li>
+                            </Link>
+                            <Link to="/JoinUs">
+                                <li><span className='glyphicon glyphicon-user'></span>Join US</li>
+                            </Link>
+                            <Link to="/SignIn">
+                                <li><span className='glyphicon glyphicon-log-in'></span>Sign In</li>
+                            </Link>
+                            <Link to="/Shopping">
+                                <li>Shopping Basket</li>
+                            </Link>
                         </ul>
                     </div>
                 </div>

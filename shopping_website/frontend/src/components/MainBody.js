@@ -16,7 +16,7 @@ const MainBody = () => {
                         <img src={camera} alt='Camera'></img>
                         <div className='caption'>
                             <div className='description'>
-                                <h2>Camera</h2><br/>
+                                <h2 id='name'>Camera</h2><br/>
                                 <button id='bStyle'>Buy Now!</button>
                             </div>
                         </div>
@@ -27,7 +27,7 @@ const MainBody = () => {
                         <img src={mobile} alt='Mobile'></img>
                         <div className='caption'>
                             <div className='description'>
-                                <h2>Mobile</h2><br/>
+                                <h2 id='name'>Mobile</h2><br/>
                                 <button id='bStyle'>Buy Now!</button>
                             </div>
                         </div>
@@ -38,7 +38,7 @@ const MainBody = () => {
                         <img src={laptop} alt='laptop'></img>
                         <div className='caption'>
                             <div className='description'>
-                                <h2>Laptop</h2><br/>
+                                <h2 id='name'>Laptop</h2><br/>
                                 <button id='bStyle'>Buy Now!</button>
                             </div>
                         </div>
@@ -51,7 +51,7 @@ const MainBody = () => {
                         <img src={headphones} alt='Headphone'></img>
                         <div className='caption'>
                             <div className='description'>
-                                <h2>Camera</h2><br/>
+                                <h2 id='name'>Camera</h2><br/>
                                 <button id='bStyle'>Buy Now!</button>
                             </div>
                         </div>
@@ -62,7 +62,7 @@ const MainBody = () => {
                         <img src={powerbank} alt='Power Bank'></img>
                         <div className='caption'>
                             <div className='description'>
-                                <h2>Power Bank</h2><br/>
+                                <h2 id="name">Power Bank</h2><br/>
                                 <button id='bStyle'>Buy Now!</button>
                             </div>
                         </div>
@@ -73,7 +73,7 @@ const MainBody = () => {
                         <img src={speaker} alt='Speaker'></img>
                         <div className='caption'>
                             <div className='description'>
-                                <h2>Speaker</h2><br/>
+                                <h2 id="name">Speaker</h2><br/>
                                 <button id='bStyle'>Buy Now!</button>
                             </div>
                         </div>
