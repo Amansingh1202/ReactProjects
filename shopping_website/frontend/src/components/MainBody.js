@@ -17,7 +17,7 @@ const MainBody = () => {
                         <div className='caption'>
                             <div className='description'>
                                 <h2 id='name'>Camera</h2><br/>
-                                <button id='bStyle'>Buy Now!</button>
+                                <button className='bStyle'>Buy Now!</button>
                             </div>
                         </div>
                         </div>
@@ -28,7 +28,7 @@ const MainBody = () => {
                         <div className='caption'>
                             <div className='description'>
                                 <h2 id='name'>Mobile</h2><br/>
-                                <button id='bStyle'>Buy Now!</button>
+                                <button className='bStyle'>Buy Now!</button>
                             </div>
                         </div>
                     </div>
@@ -39,7 +39,7 @@ const MainBody = () => {
                         <div className='caption'>
                             <div className='description'>
                                 <h2 id='name'>Laptop</h2><br/>
-                                <button id='bStyle'>Buy Now!</button>
+                                <button className='bStyle'>Buy Now!</button>
                             </div>
                         </div>
                     </div>
@@ -52,7 +52,7 @@ const MainBody = () => {
                         <div className='caption'>
                             <div className='description'>
                                 <h2 id='name'>Camera</h2><br/>
-                                <button id='bStyle'>Buy Now!</button>
+                                <button className='bStyle'>Buy Now!</button>
                             </div>
                         </div>
                     </div>
@@ -63,7 +63,7 @@ const MainBody = () => {
                         <div className='caption'>
                             <div className='description'>
                                 <h2 id="name">Power Bank</h2><br/>
-                                <button id='bStyle'>Buy Now!</button>
+                                <button className='bStyle'>Buy Now!</button>
                             </div>
                         </div>
                     </div>
@@ -74,7 +74,7 @@ const MainBody = () => {
                         <div className='caption'>
                             <div className='description'>
                                 <h2 id="name">Speaker</h2><br/>
-                                <button id='bStyle'>Buy Now!</button>
+                                <button className='bStyle'>Buy Now!</button>
                             </div>
                         </div>
                     </div>

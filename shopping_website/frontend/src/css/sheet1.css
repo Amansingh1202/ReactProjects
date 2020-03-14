@@ -19,25 +19,27 @@ img{
     margin-top: 20em;
     margin-left: 8em;
 }
+.ImageT{
+    margin-left: 1.7em;
+}
 h1{
     font-size: 3em;
-    margin-left: 1.7em;
     font-family: KacstDecorative;
     color: #FF4500;
-}
-button{
-    font-size: 1.4em;
-    background-color: #FF7F50;
-    border: none;
-    padding: 0.8em;
-    border-radius: 0.4em;
-    margin-left: 7em;
 }
 ul{
     list-style-type: none;
 }
 h3{
     color: #FFA500;
+}
+.bStyle{
+    font-size: 1.4em;
+    border: none;
+    padding: 0.8em;
+    border-radius: 0.4em;
+    margin-left: 5em;
+    width: 7em;
 }
 a{
     text-decoration: none;
@@ -53,7 +55,9 @@ a:hover{
 li{
     color: #FF4500;
     display: inline;
-    margin-left: 20em;
+    margin-left: 10em;
+    text-decoration: none;
+    list-style-type: none;
 }
 .navbar-nav{
     margin-top: 2em;
@@ -61,4 +65,16 @@ li{
 }
 h2{
     color: #FDA50F;
+}
+.btn{
+    font-size: 1.4em;
+    background-color: #FF7F50;
+    border: none;
+    padding: 0.8em;
+    border-radius: 0.4em;
+    margin-left: 5em;
+    width: 10em;
+}
+.nv{
+    font-size: 1.5em;
 }
