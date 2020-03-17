@@ -52,12 +52,16 @@ button:hover {
 .JoinUsForm{
     margin-left: 40em;
     margin-bottom: 2em;
+    margin-top: 2em;
+    background: rgba(230,230,250, 0.8);
+    padding: 2px;
+    width: 42em;
 }
 p{
-    margin-left: 2em;
+    margin-left: 4em;
     color: coral;
     font-size: 1.5em;
 }
 .formHead{
-    margin-left: 3.5em;
+    margin-left: 4.5em;
 }
