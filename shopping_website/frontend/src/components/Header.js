@@ -38,12 +38,14 @@ const NavBar = () => {
 };
 const BrandIntro = () =>{
     return(
-        <div>
+        <div className='Intro'>
             <section className='headerImage'>
                 <div id='ImageText'>
                 <h1 className='ImageT'>Shop with us</h1>
                 <h3>Choose from our wide range of products</h3>
-                    <button type='button' className='btn'><a href='#'>Let's Go</a></button>
+                    <div>
+                        <button type='button' className='btn'><a href='#'>Let's Go</a></button>
+                    </div>
                 </div>
             </section>
         </div>

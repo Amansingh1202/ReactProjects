@@ -7,17 +7,21 @@ body{
     background: black;
     overflow: hidden;
     background: black;
-    background: -webkit-linear-gradient(to right,rgba(0,0,51,1),rgba(102,255,255,0.4)),url("../images/camera-iphone-macbook-pro-office-62689.jpg");
-    background: linear-gradient(to right,rgba(0,0,51,1),rgba(102,255,255,0.4)),url("../images/camera-iphone-macbook-pro-office-62689.jpg");
+    background: -webkit-linear-gradient(to right,rgba(65,34,52,1),rgba(65,34,52,0.4)),url("../images/camera-iphone-macbook-pro-office-62689.jpg");
+    background: linear-gradient(to right,rgba(65,34,52,1),rgba(65,34,52,0.4)),url("../images/camera-iphone-macbook-pro-office-62689.jpg");
     background-size: cover;
 }
 img{
     object-fit: cover;
 }
+.Intro{
+    display: flex;
+}
 #ImageText{
-    color: whitesmoke;
-    margin-top: 20em;
-    margin-left: 8em;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20%;
+    margin-left: 8%;
 }
 .ImageT{
     margin-left: 1.7em;
@@ -25,13 +29,13 @@ img{
 h1{
     font-size: 3em;
     font-family: KacstDecorative;
-    color: #FF4500;
+    color: #EAD7D7;
 }
 ul{
     list-style-type: none;
 }
 h3{
-    color: #FFA500;
+    color: #B49FCC;
 }
 .bStyle{
     font-size: 1.4em;

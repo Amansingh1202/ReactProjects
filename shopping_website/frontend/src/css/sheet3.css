@@ -50,7 +50,7 @@ button:hover {
     display: table;
 }
 .JoinUsForm{
-    margin-left: 40em;
+    margin-left: 33%;
     margin-bottom: 2em;
     margin-top: 2em;
     background: rgba(230,230,250, 0.8);
@@ -63,5 +63,5 @@ p{
     font-size: 1.5em;
 }
 .formHead{
-    margin-left: 4.5em;
+    margin-left: 7%;
 }
