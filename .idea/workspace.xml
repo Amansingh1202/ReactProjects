@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67d93be6-2750-45b9-9217-0efd5bc2bbed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/shopping_website/frontend/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/shopping_website/frontend/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping_website/frontend/src/components/JoinUS.js" beforeDir="false" afterPath="$PROJECT_DIR$/shopping_website/frontend/src/components/JoinUS.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopping_website/frontend/src/css/sheet2.css" beforeDir="false" afterPath="$PROJECT_DIR$/shopping_website/frontend/src/css/sheet2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +20,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YC5ytnbT876fsW75DDdCLJbIDI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -58,6 +57,7 @@
       <updated>1582433999330</updated>
       <workItem from="1582434022841" duration="6266000" />
       <workItem from="1583809093388" duration="10515000" />
+      <workItem from="1586006632446" duration="3051000" />
     </task>
     <servers />
   </component>
