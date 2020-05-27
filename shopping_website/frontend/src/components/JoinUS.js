@@ -1,10 +1,16 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import '../css/sheet3.css';
 import React from "react";
+import Validation from 'react-validation';
+import '../backend/index.js';
 const JoinUs = () => {
+    constructor(props){
+        super(props)
+
+    }
     return (
         <div className='JoinUSFor'>
-            <form className='JoinUsForm'>
+            <form className='JoinUsForm' onSubmit={(e) => {this.addUser(e)}}>
                 <h1 className='formHead'>Sign Up</h1>
                 <p> Please fill in this form to create an account</p>
                 <label for='email'>Email</label>
